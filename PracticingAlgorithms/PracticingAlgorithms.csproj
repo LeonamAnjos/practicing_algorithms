@@ -76,6 +76,8 @@
     <Compile Include="HackerRank\ClimbingTheLeaderboardTest.cs" />
     <Compile Include="Others\FibonacciTest.cs" />
     <Compile Include="Others\Fibonacci.cs" />
+    <Compile Include="Others\PigLatin.cs" />
+    <Compile Include="Others\PigLatinTest.cs" />
     <Compile Include="Others\ReversePolishNotationCalculator.cs" />
     <Compile Include="Others\ReversePolishNotationCalculatorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
